@@ -1,7 +1,6 @@
 import requests
 
 csv_file_path = "queries.csv" 
-
 url = "http://127.0.0.1:5000/query"
 
 with open(csv_file_path, "rb") as f:
@@ -12,4 +11,9 @@ with open(csv_file_path, "rb") as f:
     except requests.exceptions.RequestException as e:
         print(f"Request failed: {e}")
     else:
-       print(response.text)
+        # Save returned text file
+        filename = "results.txt"
+        with open(filename, "wb") as out:
+            out.write(response.content)
+
+        print(f"Saved output to {filename}")

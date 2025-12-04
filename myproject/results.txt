@@ -1,0 +1,72 @@
+
+Query: quotes
+Results:
+  downloaded_page_12.html -> 0.29662660165228943
+  downloaded_page_7.html -> 0.2546243690774928
+  downloaded_page_8.html -> 0.2515624369648701
+  downloaded_page_5.html -> 0.2510613501789357
+  downloaded_page_2.html -> 0.2443986794990816
+Suggestions: None
+
+
+Query: stupid
+Results:
+  downloaded_page_12.html -> 0.20750141045778497
+  downloaded_page_10.html -> 0.15090770532077524
+  downloaded_page_11.html -> 0.10049849694766169
+  downloaded_page_1.html -> 0.05762524820913743
+  downloaded_page_17.html -> 0.050740502076156345
+Suggestions: None
+
+
+Query: world
+Results:
+  downloaded_page_1.html -> 0.12371606314979401
+  downloaded_page_16.html -> 0.10161315288356786
+  downloaded_page_13.html -> 0.06355193616720467
+  downloaded_page_19.html -> 0.047534820618943
+  downloaded_page_9.html -> 0.03420312693054097
+Suggestions: None
+
+
+Query: stuplld
+Results:
+  downloaded_page_1.html -> 0.0
+  downloaded_page_10.html -> 0.0
+  downloaded_page_11.html -> 0.0
+  downloaded_page_12.html -> 0.0
+  downloaded_page_13.html -> 0.0
+Suggestions:
+  stuplld -> stupid
+
+
+Query: lady
+Results:
+  downloaded_page_12.html -> 0.19429842272174835
+  downloaded_page_10.html -> 0.1413056858538812
+  downloaded_page_19.html -> 0.0829290690600552
+  downloaded_page_1.html -> 0.05395864447997341
+  downloaded_page_17.html -> 0.047511963893433366
+Suggestions: None
+
+
+Query: ladyy
+Results:
+  downloaded_page_1.html -> 0.0
+  downloaded_page_10.html -> 0.0
+  downloaded_page_11.html -> 0.0
+  downloaded_page_12.html -> 0.0
+  downloaded_page_13.html -> 0.0
+Suggestions:
+  ladyy -> lady
+
+
+Query: love
+Results:
+  downloaded_page_9.html -> 0.36624082650321055
+  downloaded_page_14.html -> 0.233642004676565
+  downloaded_page_4.html -> 0.11296637354168547
+  downloaded_page_12.html -> 0.10369968741464176
+  downloaded_page_7.html -> 0.08901584461544056
+Suggestions: None
+
